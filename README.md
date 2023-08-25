@@ -1,4 +1,3 @@
-Welcome to the clima wiki!
 The Clima app is a user-friendly weather application that utilizes real-time weather data from the OpenWeather API. With a sleek and intuitive user interface, users can easily access accurate weather information based on their location or search queries. 
 
 <img src="https://github.com/mitul-patel67/clima/assets/128608225/9e89b305-6531-46d0-aae0-2401d37f55b0" width="250" height="500">
